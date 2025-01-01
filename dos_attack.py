@@ -1,7 +1,7 @@
 import socket
 import threading
 
-target = '127.0.0.1'  # localhost
+target = '188.114.97.1'  # localhost
 port = 80  # HTTP Port
 fake_ip = '182.21.20.32'  # Random fake IP
 
